@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8810941-ac38-4f1c-bfe5-7c0799160da5</dc:identifier>
+        <dc:title>无职转生 ~到了异世界就拿出真本事~-第四卷</dc:title>
+        <dc:creator opf:file-as="理不尽な孫の手" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-28T16:00:00+00:00</dc:date>
+        <dc:description>由于突然发生的魔力灾害，鲁迪乌斯和暴力大小姐艾莉丝一起被转移到魔大陆上。
+
+两人在身经百战的战士──瑞杰路德的帮助下，朝着故乡菲托亚领地前进。
+
+为了回到中央大陆，一行人费尽千辛万苦才到达港口城镇「温恩港」。
+
+在那里帮助的少女，没想到就是那个传说中的魔界大帝奇希莉卡！
+
+她声称是谢礼而赐予鲁迪乌斯的新力量「魔眼」到底是……？
+
+众人憧憬的「人生重来型」异世界奇幻小说，期待的第四集在此登场！</dc:description>
+        <dc:publisher>E·怠工组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.544520+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 ~到了异世界就拿出真本事~-第四卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

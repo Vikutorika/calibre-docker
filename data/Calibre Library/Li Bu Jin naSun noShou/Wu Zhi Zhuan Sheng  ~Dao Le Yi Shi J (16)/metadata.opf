@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">393b5fe5-11cb-442a-bd9b-0c5a7c9666c8</dc:identifier>
+        <dc:title>无职转生 ~到了异世界就拿出真本事~-第七卷</dc:title>
+        <dc:creator opf:file-as="理不尽な孫の手" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-28T16:00:00+00:00</dc:date>
+        <dc:description>艾莉丝消失后过了几个月。
+　　鲁迪乌斯尽管内心感到空虚，还是为了寻找母亲塞妮丝，
+　　来到巴榭兰特公国的第二都市罗森堡。
+　　胸中抱着强烈孤独感的鲁迪乌斯原本打算单独行动，
+　　却受到路上认识的队伍半强迫式的邀约，和他们一起处理委托……
+　　「我不能自暴自弃，该去做那些必须做的事情」。
+　　历经千辛万苦后，对于和艾莉丝分离一事应该已经做出决断。
+　　然而，这件事却在意外的方面侵蚀鲁迪乌斯……！？
+　　「人生重来型」转生奇幻小说，通篇全新执笔的第七集在此登场！</dc:description>
+        <dc:publisher>E·怠工组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.358142+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 ~到了异世界就拿出真本事~-第七卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

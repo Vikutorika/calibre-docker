@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44d972c6-f95c-4cdd-9121-c262d28d3496</dc:identifier>
+        <dc:title>无职转生 ~到了异世界就拿出真本事~-第六卷</dc:title>
+        <dc:creator opf:file-as="理不尽な孫の手" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-28T16:00:00+00:00</dc:date>
+        <dc:description>和保罗的激烈父子争执终于顺利和解后，「Dead End」一行人继续朝着阿斯拉王国前进。
+
+才刚决定好要以哪条路线前往阿斯拉王国，人神却告知侍女莉莉雅与异母妹妹爱夏被西隆王国扣留的情报！
+
+为了确定真伪而前往西隆王国后，鲁迪乌斯目睹到一名长相和莉莉雅相似的少女正在大声哭喊的光景……！
+
+众人憧憬的「人生重来型」转生奇幻小说，剧情急转直下的第六集在此开始！</dc:description>
+        <dc:publisher>E·怠工组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.421085+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 ~到了异世界就拿出真本事~-第六卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

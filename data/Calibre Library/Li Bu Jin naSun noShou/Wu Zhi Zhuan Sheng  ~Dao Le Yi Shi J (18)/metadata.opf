@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c898ccb-9774-44c4-b61a-1faa3866c1ad</dc:identifier>
+        <dc:title>无职转生 ~到了异世界就拿出真本事~-第五卷</dc:title>
+        <dc:creator opf:file-as="理不尽な孫の手" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-28T16:00:00+00:00</dc:date>
+        <dc:description>与至亲的意外重逢……与争吵？
+　　解决兽族的绑架事件后，鲁迪乌斯和暴力大小姐艾莉丝，
+　　身经百战的勇士瑞杰路德，以及新加入的基斯一起到达米里斯神圣国的首都米里希昂。
+　　原本想在首都城邑稍作休息，但鲁迪乌斯却又再度目击绑架事件！
+　　基于「Dead End」的规范，为了救出被绑架的少年，
+　　鲁迪乌斯潜入绑匪的藏身处。结果却因为意外状况而被迫出手战斗。
+　　和敌方团长交战的过程中，那人物嘴里却叫出了「鲁迪」这个让人怀念的自身小名……！
+　　众人憧憬的「人生重来型」转生奇幻小说，剧情紧凑让人屏息的第五集在此登场！</dc:description>
+        <dc:publisher>E·怠工组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.483723+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 ~到了异世界就拿出真本事~-第五卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

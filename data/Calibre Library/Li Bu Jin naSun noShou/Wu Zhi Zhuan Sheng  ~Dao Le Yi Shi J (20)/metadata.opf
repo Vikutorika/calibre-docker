@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d14af43a-7e98-4b9c-a486-43d559efe8fe</dc:identifier>
+        <dc:title>无职转生 ~到了异世界就拿出真本事~-第三卷</dc:title>
+        <dc:creator opf:file-as="理不尽な孫の手" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-28T16:00:00+00:00</dc:date>
+        <dc:description>原本是个无职尼特族的男子──鲁迪乌斯由于被卷入原因不明的魔力灾害，因此和家人失散。
+经过灾害后，他被转移到一个陌生的地方。和鲁迪乌斯在一起的人是大小姐艾莉丝，
+同时也是他负责担任家庭教师的对象。内心愈来愈不安的鲁迪乌斯身边出现奇怪的人影……？
+翠绿色的头发，白磁般的雪白皮肤，还有额头上看起来像是红宝石的感觉器官。
+那是鲁迪乌斯的师父洛琪希曾经教导他「绝对不可以接近」的存在──斯佩路德族！
+要找回过去的幸福！大受欢迎的「人生重来型」奇幻小说第三集在此登场！</dc:description>
+        <dc:publisher>E·怠工组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.603685+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 ~到了异世界就拿出真本事~-第三卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcf0e0e3-defe-4e37-9402-225a22fbc54e</dc:identifier>
+        <dc:title>无职转生 到了异世界就拿出真本事 第十五卷</dc:title>
+        <dc:creator opf:file-as="Jerry™" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>鲁迪乌斯遇见了从未来进行时光旅行来到现代的年迈自己。
+
+然而，未来的自己走的却是一条丧失所有重要之人的路线。
+鲁迪乌斯为了回避这个未来，决定接受人神的提案，打倒奥尔斯帝德。
+在准备期间，鲁迪乌斯相信老人留下的建议，
+决定写信寄给五年前不告而别的艾莉丝，向她提出某个提案。
+「如果我能活着回来，我们再继续谈这件事吧。」
+故事面临巨大转变，鲁迪乌斯和艾莉丝会被红线牵引，让彼此的命运再次交会吗？
+「人生重来型」转生奇幻小说，第十五集在此开幕！</dc:description>
+        <dc:publisher>轻之国度ePub工作组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:39.791750+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 到了异世界就拿出真本事 第十五卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

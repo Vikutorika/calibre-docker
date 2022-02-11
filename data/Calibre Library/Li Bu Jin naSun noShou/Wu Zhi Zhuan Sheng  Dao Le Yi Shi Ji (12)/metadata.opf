@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18c1ef9e-6893-4958-a16e-1165786eac23</dc:identifier>
+        <dc:title>无职转生 到了异世界就拿出真本事 第十一卷</dc:title>
+        <dc:creator opf:file-as="Jerry™" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>鲁迪乌斯继续待在魔法大学里就读，同时和希露菲叶特过着新婚生活。
+然而父亲保罗把两个妹妹托付给他，四个人的新生活就此开始。
+自立可靠的爱夏，和有着这年纪拗脾气的诺伦，和个性完全相反的两人一起生活可说是问题不断。
+在这种状况下，鲁迪乌斯想按照父亲希望，安排两人进入魔法大学就读，可是妹妹们却各自抱着不同想法……
+「……这就是大哥当初的心情吗？」
+因为妹妹们而察觉到的，对前世家人的感情又是？
+「人生重来型」转生奇幻小说第十一集在此开幕！</dc:description>
+        <dc:publisher>轻之国度ePub工作组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.124240+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 到了异世界就拿出真本事 第十一卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

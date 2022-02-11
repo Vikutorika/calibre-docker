@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45cca6e2-9758-4e2a-a39f-37db987b4802</dc:identifier>
+        <dc:title>无职转生 ~到了异世界就拿出真本事~-第八卷</dc:title>
+        <dc:creator opf:file-as="理不尽な孫の手" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-28T16:00:00+00:00</dc:date>
+        <dc:description>鲁迪乌斯只身开始寻找母亲塞妮丝后，过了几年。
+以冒险者身分闯出名号的鲁迪乌斯手边收到了来自魔法大学的推荐函！
+鲁迪乌斯原本以寻找母亲为优先，想要放掉这次入学的机会，
+却在梦中从「人神」那边收到建议，因此决心要前往魔法大学。
+「我的Erectile Dysfunction会在魔法大学治好吗！人神大人！」
+鲁迪乌斯虽然顺利合格并入学就读，同班的特别生却都是一些问题儿童……？
+学园篇开始！「人生重来型」转生奇幻小说第八集在此登场！</dc:description>
+        <dc:publisher>E·怠工组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.299955+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 ~到了异世界就拿出真本事~-第八卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6354a6ab-0ec7-4230-9e7d-71a24bcb9882</dc:identifier>
+        <dc:title>无职转生 到了异世界就拿出真本事 第十二卷</dc:title>
+        <dc:creator opf:file-as="Jerry™" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>和父亲保罗再会之后，鲁迪乌斯为了救出母亲而闯入「转移迷宫」。
+一行人参考从夏利亚带来的书籍，逐步深入迷宫内部。
+他们在途中救出洛琪希，然后避开各式陷阱，击倒棘手魔物，成功到达了最底层。
+一切都进行得很顺利，他也以为很快就能救出母亲。
+然而，在迷宫最深处等待鲁迪乌斯的却是足以打碎这份希望的冲击性事件！
+「我还以为转生到这个世界后，自己已经改变……」
+鲁迪乌斯因为后悔而非常痛苦，拯救他脱离绝望深渊的人物到底是谁？
+「人生重来型」转生奇幻小说第十二集在此开幕！</dc:description>
+        <dc:publisher>轻之国度ePub工作组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:40.079113+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 到了异世界就拿出真本事 第十二卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

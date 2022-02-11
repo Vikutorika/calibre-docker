@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63eea193-5f1f-4e42-87d5-95b080cc1178</dc:identifier>
+        <dc:title>无职转生 到了异世界就拿出真本事 第十四卷</dc:title>
+        <dc:creator opf:file-as="Jerry™" opf:role="aut">理不尽な孫の手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>鲁迪乌斯化解了与莎拉之间长久以来的疙瘩。
+后来，众人决定造访甲龙王佩尔基乌斯所居住的空中要塞。
+他们在城内学习新的知识，感受珍奇的体验，度过了充满宝贵时光的每一天。
+然而另一方面，原本以为只是罹患感冒的七星，病况却突然急转直下。
+「请问，有办法把我送往魔大陆吗？」
+为了寻找治疗七星的方法，鲁迪乌斯等人展开行动。
+然而转移后抵达的地点，却是在「Dead End」时代留下苦涩回忆的那个场所……！
+重启魔大陆旅程？「人生重来型」转生奇幻小说，第十四集在此开幕！</dc:description>
+        <dc:publisher>轻之国度ePub工作组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;理不尽な孫の手&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-02-11T07:03:39.847237+00:00"/>
+        <meta name="calibre:title_sort" content="无职转生 到了异世界就拿出真本事 第十四卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
